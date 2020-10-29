@@ -1,5 +1,5 @@
 # museum-of-candy-mockup
 
-live link on my github profile
+[live link](https://rmdpalomoc.netlify.app/)
 
-Mocked up a landing page for a fictional museum of candy
+Mocked up a landing page for a fictional museum of candy.
